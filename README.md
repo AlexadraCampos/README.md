@@ -1,4 +1,4 @@
-Olá, eu sou Alexandra! 
+☕ Olá, eu sou Alexandra! 
 Bem-vindo ao meu perfil no GitHub! Aqui estão alguns detalhes sobre mim:
 
  🛠 Atualmente aprendendo: Python, JavaScript e C.
